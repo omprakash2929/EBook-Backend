@@ -180,4 +180,4 @@ const getSingleBook = async (
     }
 };
 
-export { createBook ,updateBook,listBooks};
+export { createBook ,updateBook,listBooks,getSingleBook};
